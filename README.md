@@ -1,4 +1,4 @@
-https://github.com/goldomatic/shipo-cli/blob/main/shipo-cli-logo.png
+![image](https://github.com/goldomatic/shipo-cli/blob/main/shipo-cli-logo.png)
 
 
 # shipo-CLI
