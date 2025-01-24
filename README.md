@@ -1,4 +1,5 @@
-![image](https://github.com/goldomatic/shipo-cli/blob/main/shipo-cli-logo.png)
+<img src="https://github.com/goldomatic/shipo-cli/blob/main/shipo-cli-logo.png" alt="shipo-CLI Logo" width="25px" height="250px">
+
 
 
 # shipo-CLI
