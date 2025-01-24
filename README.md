@@ -1,3 +1,6 @@
+https://github.com/goldomatic/shipo-cli/blob/main/shipo-cli-logo.png
+
+
 # shipo-CLI
 
 Welcome to **shipo-CLI**: The ultimate shitposting command-line tool for the modern shitposter! This tool lets you unleash your creativity (or chaos) across Bluesky and Twitter… because what’s life without a good shitpost?
