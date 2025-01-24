@@ -17,7 +17,7 @@ Welcome to **shipo-CLI**: The ultimate shitposting command-line tool for the mod
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/shipo-cli.git
+   git clone https://github.com/goldomatic/shipo-cli.git
    cd shipo-cli
    ```
 
